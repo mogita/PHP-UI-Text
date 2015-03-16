@@ -3,7 +3,7 @@
  * This file is part of the PHP UI Text package.
  *
  * @copyright   2015 mogita <himogita@gmail.com>
- * @link        https://github.com/mogita/***
+ * @link        https://github.com/mogita/PHP-UI-Text
  * @license     GNU General Public License, version 2 (GPL-2.0)
  */
 

@@ -3,7 +3,7 @@
  * This file is part of the PHP UI Text package.
  *
  * @copyright   2015 mogita <himogita@gmail.com>
- * @link        https://github.com/mogita/***
+ * @link        https://github.com/mogita/PHP-UI-Text
  * @license     GNU General Public License, version 2 (GPL-2.0)
  */
 
@@ -24,6 +24,6 @@ $GLOBALS['zh_cn'] = array(
 	'Plural is not a problem (almost)!' => '复数不成问题！（基本上吧）',
 	'You can use a simple form as language switcher' => '可以使用表单来切换语言',
 	'Example for PHP UI Text' => '示例：PHP UI Text',
-	'For more information and download, please go to <a href="http://github.com/mogita/phpuitext" target="_blank">GitHub</a> page' => '在 <a href="http://github.com/mogita/phpuitext" target="_blank">GitHub</a> 页面了解更多信息以及下载',
+	'For more information and download, please go to <a href="https://github.com/mogita/PHP-UI-Text">GitHub</a> page' => '在 <a href="https://github.com/mogita/PHP-UI-Text">GitHub</a> 页面了解更多信息以及下载',
 	'You can choose a different language! ' => '请在右边选择不同语言试试！',
 );

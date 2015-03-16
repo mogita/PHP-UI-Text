@@ -3,7 +3,7 @@
  * This file is part of the PHP UI Text project.
  *
  * @copyright	2015 mogita <himogita@gmail.com>
- * @link        https://github.com/mogita/phpuitext
+ * @link        https://github.com/mogita/PHP-UI-Text
  * @license		GNU General Public License, version 2 (GPL-2.0)
  */
 
@@ -67,7 +67,7 @@ echo '<li><p>'
 	.'</p></li>';
 ?>
 
-<li><p style="font-weight: bold;"><?php echo uit('For more information and download, please go to <a href="http://github.com/mogita/phpuitext" target="_blank">GitHub</a> page'); ?></p></li>
+<li><p style="font-weight: bold;"><?php echo uit('For more information and download, please go to <a href="https://github.com/mogita/PHP-UI-Text">GitHub</a> page'); ?></p></li>
 </ul>
 
 <hr />

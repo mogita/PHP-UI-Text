@@ -14,7 +14,7 @@
  *
  *
  * @copyright   2015 mogita <himogita@gmail.com>
- * @link        https://github.com/mogita/phpuitext
+ * @link        https://github.com/mogita/PHP-UI-Text
  * @license     GNU General Public License, version 2 (GPL-2.0)
  */
 

@@ -3,7 +3,7 @@
  * This file is part of the PHP UI Text package.
  *
  * @copyright   2015 mogita <himogita@gmail.com>
- * @link        https://github.com/mogita/***
+ * @link        https://github.com/mogita/PHP-UI-Text
  * @license     GNU General Public License, version 2 (GPL-2.0)
  */
 
@@ -24,6 +24,6 @@ $GLOBALS['en_us'] = array(
 	'Plural is not a problem (almost)!' => 'Plural is not a problem (almost)!',
 	'You can use a simple form as language switcher' => 'You can use a simple form as language switcher',
 	'Example for PHP UI Text' => 'Example for PHP UI Text',
-	'For more information and download, please go to <a href="http://github.com/mogita/phpuitext" target="_blank">GitHub</a> page' => 'For more information and download, please go to <a href="http://github.com/mogita/phpuitext" target="_blank">GitHub</a> page',
+	'For more information and download, please go to <a href="https://github.com/mogita/PHP-UI-Text">GitHub</a> page' => 'For more information and download, please go to <a href="https://github.com/mogita/PHP-UI-Text">GitHub</a> page',
 	'You can choose a different language! ' => 'You can choose a different language! ',
 );
