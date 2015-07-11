@@ -21,4 +21,4 @@
 
 ### Author
 
-mogita (<himogita@gmail.com>)
+mogita (<me@mogita.com>)
